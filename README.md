@@ -38,7 +38,7 @@ const compoundInterest = amount - principal;
 
 ## ▶️ How to Run
 
-1. https://github.com/kjwashim/Task-12-JavaScript-Intro-Datatypes-Operator
+1. [https://github.com/kjwashim/Task-12-JavaScript-Intro-Datatypes-Operator](https://github.com/kjwashim/Task-12-JavaScript-Intro-Datatypes-Operators/tree/main)
 2. Download or clone the repository.
 3. Open the project folder.
 4. Open `index.html` in any web browser.
