@@ -53,7 +53,3 @@ Time: 3 years
 Compound Interest after 3 years is: ₹16550.00
 Total Amount: ₹66550.00
 
-
-## 👨‍💻 Author
-
-**MD Washim Akram**
